@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ios-voip-push-pjsip"
-  s.version          = "0.1"
+  s.version          = "0.1.4"
   s.summary          = "PJSIP for ios + ssl"
   s.description      = <<-DESC
                        pjsip build to support voip push
